@@ -1,0 +1,1207 @@
+.chi-tit-lch-st-hng .rectangle-3 {
+  border: 1px solid #AAAAAA;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 105px;
+}
+.chi-tit-lch-st-hng .ellipse-11 {
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.15), inset 1px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 120px;
+  height: 120px;
+}
+.chi-tit-lch-st-hng .our-products {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-42 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.9px 13.2px 13.7px 14.2px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .news-promotion {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-43 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 1px 2.1px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .visit-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .visit {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 2.3px 11.6px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .navbar-left {
+  border-radius: 2px;
+  margin-bottom: 4.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-44 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 0 15px 0;
+  width: 163px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .rectangle-5 {
+  border: 1px solid #7C7C7C;
+  background: rgba(255, 255, 255, 0.5);
+  margin-right: 8px;
+  width: 246px;
+  height: 40px;
+}
+.chi-tit-lch-st-hng .ionsearch-circle {
+  width: 40px;
+  height: 40px;
+}
+.chi-tit-lch-st-hng .frame-2 {
+  margin: 10px 8px 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 294px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .carbonuser-avatar-filled-alt {
+  margin-right: 12px;
+  width: 37px;
+  height: 37px;
+}
+.chi-tit-lch-st-hng .vector-8 {
+  width: 33px;
+  height: 33px;
+}
+.chi-tit-lch-st-hng .elshopping-cart-sign {
+  margin: 1px 0 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 33px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .frame-3 {
+  margin: 12px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 82px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .navbar-right {
+  display: flex;
+  flex-direction: row;
+  width: 560px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .frame-75 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36px 52px 11px 82px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .logo-no-background-21 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 8.5px;
+  translate: -50% 0;
+  width: 145px;
+  height: 102.5px;
+}
+.chi-tit-lch-st-hng .header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 21px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .header-1 {
+  position: relative;
+  margin-bottom: 142px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .order-history {
+  margin-right: 17.5px;
+  width: 254.5px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 28px;
+  text-decoration-line: underline;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .back-to-1 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 28px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .manage-account {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .log-out {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 28px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .logout {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .group-6 {
+  margin: 0 52.1px 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 706.9px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .back-to-2 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  color: #293E5F;
+}
+.chi-tit-lch-st-hng .back-to {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .order-details {
+  margin-bottom: 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 44px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .items-from-pastricia {
+  margin-right: 16.5px;
+  width: 582.9px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 26px;
+  color: #525050;
+}
+.order-o-1020 {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.333;
+  color: #293E5F;
+}
+.chi-tit-lch-st-hng .order-o-1020 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 26px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .items-1 {
+  margin: 3px 12.5px 0 0;
+  display: inline-block;
+  width: 364.5px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .price {
+  margin-top: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .qty {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-12 {
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 0 14px 26px;
+  width: 807px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .rectangle-6 {
+  border-radius: 5px;
+  border: 1px solid rgba(82, 80, 80, 0.1);
+  background: url('../assets/images/rectangle633.png');
+  margin-right: 14px;
+  width: 92px;
+  height: 85px;
+}
+.chi-tit-lch-st-hng .strawberry-cake-s {
+  margin: 23px 78.5px 39px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.15;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-5 {
+  margin: 21px 0 39px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .container-4 {
+  margin: 21px 0 39px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-3 {
+  margin: 0 66.1px 11px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 681.9px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .line-33 {
+  background: #525050;
+  width: 749px;
+  height: 1px;
+}
+.chi-tit-lch-st-hng .group-151 {
+  border-radius: 5px;
+  margin: 0 30px 22px 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 749px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .rectangle-61 {
+  border-radius: 5px;
+  border: 1px solid rgba(82, 80, 80, 0.1);
+  background: url('../assets/images/rectangle68.png') 50% / cover no-repeat;
+  margin-right: 17px;
+  width: 92px;
+  height: 85px;
+}
+.chi-tit-lch-st-hng .mini-berry-tiramisu {
+  margin: 21px 80.4px 39px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-7 {
+  margin: 23.5px 0 36.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .container-6 {
+  margin: 21.5px 0 39.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-9 {
+  margin: 0 64.4px 11.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 686.2px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .line-331 {
+  background: #525050;
+  margin-left: 1.5px;
+  width: 749px;
+  height: 1px;
+}
+.chi-tit-lch-st-hng .group-131 {
+  border-radius: 5px;
+  margin: 0 30.5px 0 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 750.5px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .group-163 {
+  position: absolute;
+  left: -5px;
+  bottom: 44.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 807px;
+  height: 291.5px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .order {
+  border: 1px solid #525050;
+  position: relative;
+  margin-right: 61px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17px 11px 0 20px;
+  width: 802px;
+  height: 403px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .order-summary {
+  margin: 0 17px 16px 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 500;
+  font-size: 26px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .subtotal {
+  margin-right: 14px;
+  width: 393.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22px;
+  color: #525050;
+}
+.subtotal-sub2 {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.chi-tit-lch-st-hng .container-1 {
+  margin: 2.9px 0 0.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-6 {
+  margin-bottom: 0.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 473px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .items {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 18px;
+  color: #787676;
+}
+.chi-tit-lch-st-hng .group-162 {
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 16.1px 12px 11px 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .shipping-1 {
+  margin: 1px 14px 0 0;
+  display: inline-block;
+  width: 404.7px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 22px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-172 {
+  border-left: 1px solid #525050;
+  border-right: 1px solid #525050;
+  border-bottom: 1px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 12px 18px 18px;
+  width: 503px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .total {
+  margin: 4px 14px 0 0;
+  display: inline-block;
+  width: 373.2px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 22px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-3 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 24px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-69 {
+  margin: 0 11px 0 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 473px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .order-sum {
+  border: 1px solid #525050;
+  margin-bottom: 102px;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 0 28px 0;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .container-2 {
+  margin: 0 3px 31.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .line-34 {
+  background: #898484;
+  margin: 0 3px 37.5px 0;
+  width: 1366px;
+  height: 1px;
+}
+.chi-tit-lch-st-hng .billing-information {
+  margin: 0 17px 16px 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 500;
+  font-size: 26px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .paypal {
+  margin: 0 0px 19.5px 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 26px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .vector-7 {
+  width: 85px;
+  height: 62.2px;
+}
+.chi-tit-lch-st-hng .cibcc-paypal {
+  margin-right: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 85px;
+  height: 62.2px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .number {
+  margin: 19.1px 0 13.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-8 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .group-161 {
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 17.4px 0 37.9px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .billing {
+  border: 1px solid #525050;
+  margin-right: 23px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 17px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .shipping-information {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 500;
+  font-size: 26px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-5 {
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 6px;
+  padding: 18px 18px 24px 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sent-to-ngo-diem-hue-sub8 {
+  font-family: 'Libre Caslon Text';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.sent-to-ngo-diem-hue {
+  font-family: 'Libre Caslon Display';
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.333;
+}
+.chi-tit-lch-st-hng .sent-to-ngo-diem-hue {
+  margin: 0 15px 10px 15px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  color: #525050;
+}
+.sent-to-ngo-diem-hue-sub1 {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.chi-tit-lch-st-hng .phone-number-0123456789 {
+  margin: 0 17px 11px 17px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  color: #525050;
+}
+.phone-number-0123456789-sub1 {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.phone-number-0123456789 {
+  font-family: 'Libre Caslon Display';
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.333;
+}
+.chi-tit-lch-st-hng .address-19-nguyen-huu-tho-phuong-tan-phong-quan-7-tp-hcm {
+  margin: 0 40.5px 0 17px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  color: #525050;
+}
+.address-19-nguyen-huu-tho-phuong-tan-phong-quan-7-tp-hcm-sub1 {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.address-19-nguyen-huu-tho-phuong-tan-phong-quan-7-tp-hcm {
+  font-family: 'Libre Caslon Display';
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.333;
+}
+.chi-tit-lch-st-hng .shipping {
+  border: 1px solid #525050;
+  margin-right: 26px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 6px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .delivery-1 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 500;
+  font-size: 26px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .container-7 {
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 24px;
+  padding: 18px 18px 16px 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .status-delivered {
+  margin: 0 15px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 22px;
+  color: #525050;
+}
+.status-delivered {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.333;
+  color: #2D9209;
+}
+.chi-tit-lch-st-hng .delivery {
+  border: 1px solid #525050;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 117px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .container-4 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .my-account {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 48px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-5 {
+  background: #E6CFE1;
+  position: absolute;
+  left: -40px;
+  top: -140px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 31px 0 29px 0.2px;
+  width: 1440px;
+  height: 120px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .profile {
+  position: relative;
+  margin: 0 31px 48px 40px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .bp-flight-1768-x-1 {
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('../assets/images/bpFlight1768X1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -33px;
+  top: 0px;
+  width: 1494px;
+  height: 615px;
+}
+.chi-tit-lch-st-hng .ellipse-1 {
+  position: relative;
+  width: 165.5px;
+  height: 165px;
+}
+.chi-tit-lch-st-hng .logo-no-background-2 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 11.7px;
+  translate: -50% 0;
+  width: 200px;
+  height: 141px;
+}
+.chi-tit-lch-st-hng .logo {
+  position: relative;
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 0 17.9px 0 16.6px;
+  width: 200px;
+  height: 165px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .careers {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-17 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .gift-cards {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-18 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .subscriptions {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .group-22 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .frame-15 {
+  position: relative;
+  margin: 0 214px 135px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .general-policies-and-regulations {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-171 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .transaction-and-payment-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-181 {
+  margin: 0 0.9px 23px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .return-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-191 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-20 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .shipping-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .group-221 {
+  position: absolute;
+  right: -153.5px;
+  bottom: -225px;
+  display: flex;
+  flex-direction: column;
+  width: 298.6px;
+  height: 208px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .frame-17 {
+  position: relative;
+  margin: 128px 317.9px 305px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .have-aquestion {
+  margin: 0 16.1px 14px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .were-always-here-to-lend-ahelping-hand {
+  margin: 0 7px 27.5px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .vector {
+  width: 24.5px;
+  height: 22.2px;
+}
+.chi-tit-lch-st-hng .icround-home {
+  margin: 0 13.7px 6.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.5px;
+  height: 22.2px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .district-7-ho-chi-minh-city {
+  margin-top: 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-13 {
+  margin: 0 14px 23.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .vector-1 {
+  width: 17.5px;
+  height: 29.3px;
+}
+.chi-tit-lch-st-hng .material-symbolsphone-android {
+  margin-right: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 17.5px;
+  height: 29.3px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .container {
+  margin: 3.7px 0 0.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-14 {
+  margin: 0 3.5px 23.3px 3.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .vector-2 {
+  width: 25px;
+  height: 20px;
+}
+.chi-tit-lch-st-hng .material-symbolsmail {
+  margin: 4px 12.5px 2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 25px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .pastriciabakerygmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.chi-tit-lch-st-hng .group-15 {
+  margin-left: 0.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .group-16 {
+  margin: 0 0 25px 2.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .line-27 {
+  background: #525050;
+  margin: 0 1.3px 17px 0;
+  width: 304px;
+  height: 1px;
+}
+.chi-tit-lch-st-hng .vector-6 {
+  width: 48px;
+  height: 45px;
+}
+.chi-tit-lch-st-hng .vector-3 {
+  width: 48px;
+  height: 45px;
+}
+.chi-tit-lch-st-hng .vector-4 {
+  width: 48px;
+  height: 45px;
+}
+.chi-tit-lch-st-hng .vector-5 {
+  width: 48px;
+  height: 45px;
+}
+.chi-tit-lch-st-hng .media {
+  margin: 0 0.9px 0 3.3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 36.3px;
+  width: 301.1px;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .frame-16 {
+  position: relative;
+  margin-top: 123px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng .footer {
+  background: #EEEEEE;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 58px 105.7px 79px 93px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chi-tit-lch-st-hng {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

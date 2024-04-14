@@ -1,0 +1,848 @@
+.lin-h .rectangle-3 {
+  border: 1px solid #AAAAAA;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 105px;
+}
+.lin-h .ellipse-11 {
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.15), inset 1px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 120px;
+  height: 120px;
+}
+.lin-h .our-products {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.lin-h .group-42 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.9px 13.2px 13.7px 14.2px;
+  box-sizing: border-box;
+}
+.lin-h .news-promotion {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.lin-h .group-43 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 1px 2.1px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.lin-h .visit-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.lin-h .visit {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 2.3px 11.6px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.lin-h .navbar-left {
+  border-radius: 2px;
+  margin-bottom: 4.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.lin-h .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.lin-h .group-44 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 0 15px 0;
+  width: 163px;
+  box-sizing: border-box;
+}
+.lin-h .rectangle-5 {
+  border: 1px solid #7C7C7C;
+  background: rgba(255, 255, 255, 0.5);
+  margin-right: 8px;
+  width: 246px;
+  height: 40px;
+}
+.lin-h .ionsearch-circle {
+  width: 40px;
+  height: 40px;
+}
+.lin-h .frame-2 {
+  margin: 10px 8px 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 294px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .carbonuser-avatar-filled-alt {
+  margin-right: 12px;
+  width: 37px;
+  height: 37px;
+}
+.lin-h .vector-8 {
+  width: 33px;
+  height: 33px;
+}
+.lin-h .elshopping-cart-sign {
+  margin: 1px 0 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 33px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.lin-h .frame-3 {
+  margin: 12px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 82px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .navbar-right {
+  display: flex;
+  flex-direction: row;
+  width: 560px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .frame-75 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36px 52px 11px 82px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .logo-no-background-21 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 8.5px;
+  translate: -50% 0;
+  width: 145px;
+  height: 102.5px;
+}
+.lin-h .header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 21px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .header-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.lin-h .contact {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 48px;
+  color: #525050;
+}
+.lin-h .frame-47 {
+  background: #FFFFFF;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 0 17px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.lin-h .line-40 {
+  position: absolute;
+  top: 1292px;
+  right: -79px;
+  width: 1440px;
+  height: 18px;
+}
+.lin-h .cn-th {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.lin-h .frame-53 {
+  border-radius: 8px;
+  background: rgba(234, 233, 232, 0.5);
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 19px 0 17px 0;
+  width: 317px;
+  box-sizing: border-box;
+}
+.lin-h .rectangle-6 {
+  border-radius: 5px;
+  border: 1px solid #7C7C7C;
+  background: url('../assets/images/rectangle621.png') 50% / cover no-repeat;
+  width: 349.1px;
+  height: 436px;
+}
+.lin-h .rectangle-7 {
+  border-radius: 5px;
+  border: 1px solid #7C7C7C;
+  background: url('../assets/images/rectangle74.png') 50% / cover no-repeat;
+  width: 349.1px;
+  height: 436px;
+}
+.lin-h .rectangle-8 {
+  border-radius: 5px;
+  border: 1px solid #7C7C7C;
+  background: url('../assets/images/rectangle81.png') 50% / cover no-repeat;
+  width: 349.1px;
+  height: 436px;
+}
+.lin-h .group-2 {
+  border-radius: 5px;
+  margin-left: 37px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 87.3px;
+  width: 1222px;
+  box-sizing: border-box;
+}
+.lin-h .frame-72 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1259px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .hch-minh {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.lin-h .frame-52 {
+  border-radius: 10px;
+  background: rgba(226, 224, 224, 0.5);
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 18px 0;
+  width: 317px;
+  box-sizing: border-box;
+}
+.lin-h .rectangle-61 {
+  border-radius: 5px;
+  border: 1px solid #7C7C7C;
+  background: url('../assets/images/rectangle625.png') 50% / cover no-repeat;
+  width: 349.1px;
+  height: 436px;
+}
+.lin-h .rectangle-71 {
+  border-radius: 5px;
+  border: 1px solid #7C7C7C;
+  background: url('../assets/images/rectangle7.png') 50% / cover no-repeat;
+  width: 349.1px;
+  height: 436px;
+}
+.lin-h .rectangle-81 {
+  border-radius: 5px;
+  border: 1px solid #7C7C7C;
+  background: url('../assets/images/image9.png') 50% / cover no-repeat;
+  width: 349.1px;
+  height: 436px;
+}
+.lin-h .group-1 {
+  border-radius: 5px;
+  margin: 0 43px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 87.3px;
+  width: 1222px;
+  box-sizing: border-box;
+}
+.lin-h .frame-73 {
+  background: #D6AFCD;
+  position: absolute;
+  top: 0px;
+  right: -79px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 57px 25px;
+  width: 1440px;
+  height: 645px;
+  box-sizing: border-box;
+}
+.lin-h .facebook-pastrica-bakery {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 33px;
+  color: #525050;
+}
+.facebook-pastrica-bakery {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 1.333;
+}
+.lin-h .frame-56 {
+  border-radius: 5px;
+  border: 0.5px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 25.5px 0;
+  width: 587px;
+  box-sizing: border-box;
+}
+.lin-h .email-pastriciabakerygmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 33px;
+  color: #525050;
+}
+.email-pastriciabakerygmail-com-sub2 {
+  font-family: 'Libre Bodoni';
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 1.333;
+}
+.lin-h .frame-57 {
+  border-radius: 5px;
+  border: 0.5px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 25.5px 32.5px;
+  box-sizing: border-box;
+}
+.lin-h .frame-55 {
+  border-radius: 10px;
+  background: rgba(211, 252, 234, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 36px 44px 34px 39px;
+  box-sizing: border-box;
+}
+.lin-h .frame-74 {
+  background: #D6AFCD;
+  position: absolute;
+  right: -79px;
+  bottom: 23px;
+  padding: 44px 38px;
+  width: 1440px;
+  height: 368px;
+  box-sizing: border-box;
+}
+.lin-h .frame-51 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 39px 476px 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 676px 71px 455px 31px;
+  width: 1361px;
+  box-sizing: border-box;
+}
+.lin-h .bp-flight-1768-x-1 {
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('../assets/images/bpFlight1768X1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -33px;
+  top: 0px;
+  width: 1494px;
+  height: 615px;
+}
+.lin-h .ellipse-1 {
+  position: relative;
+  width: 165.5px;
+  height: 165px;
+}
+.lin-h .logo-no-background-2 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 11.7px;
+  translate: -50% 0;
+  width: 200px;
+  height: 141px;
+}
+.lin-h .logo {
+  position: relative;
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 0 17.9px 0 16.6px;
+  width: 200px;
+  height: 165px;
+  box-sizing: border-box;
+}
+.lin-h .careers {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.lin-h .group-171 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.lin-h .gift-cards {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.lin-h .group-181 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.lin-h .subscriptions {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.lin-h .group-19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.lin-h .group-221 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .frame-15 {
+  position: relative;
+  margin: 0 214px 135px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.lin-h .policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.lin-h .general-policies-and-regulations {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.lin-h .group-17 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.lin-h .transaction-and-payment-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.lin-h .group-18 {
+  margin: 0 0.9px 23px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.lin-h .return-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.lin-h .group-191 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.lin-h .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.lin-h .group-20 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.lin-h .shipping-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.lin-h .group-21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.lin-h .group-22 {
+  position: absolute;
+  right: -153.5px;
+  bottom: -225px;
+  display: flex;
+  flex-direction: column;
+  width: 298.6px;
+  height: 208px;
+  box-sizing: border-box;
+}
+.lin-h .frame-17 {
+  position: relative;
+  margin: 128px 317.9px 305px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.lin-h .have-aquestion {
+  margin: 0 16.1px 14px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.lin-h .were-always-here-to-lend-ahelping-hand {
+  margin: 0 7px 27.5px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 20px;
+  color: #525050;
+}
+.lin-h .vector {
+  width: 24.5px;
+  height: 22.2px;
+}
+.lin-h .icround-home {
+  margin: 0 13.7px 6.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.5px;
+  height: 22.2px;
+  box-sizing: border-box;
+}
+.lin-h .district-7-ho-chi-minh-city {
+  margin-top: 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.lin-h .group-13 {
+  margin: 0 14px 23.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .vector-1 {
+  width: 17.5px;
+  height: 29.3px;
+}
+.lin-h .material-symbolsphone-android {
+  margin-right: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 17.5px;
+  height: 29.3px;
+  box-sizing: border-box;
+}
+.lin-h .container {
+  margin: 3.7px 0 0.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.lin-h .group-14 {
+  margin: 0 3.5px 23.3px 3.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .vector-2 {
+  width: 25px;
+  height: 20px;
+}
+.lin-h .material-symbolsmail {
+  margin: 4px 12.5px 2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 25px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.lin-h .pastriciabakerygmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.lin-h .group-15 {
+  margin-left: 0.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .group-16 {
+  margin: 0 0 25px 2.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.lin-h .line-27 {
+  background: #525050;
+  margin: 0 1.3px 17px 0;
+  width: 304px;
+  height: 1px;
+}
+.lin-h .vector-6 {
+  width: 48px;
+  height: 45px;
+}
+.lin-h .vector-3 {
+  width: 48px;
+  height: 45px;
+}
+.lin-h .vector-4 {
+  width: 48px;
+  height: 45px;
+}
+.lin-h .vector-5 {
+  width: 48px;
+  height: 45px;
+}
+.lin-h .media {
+  margin: 0 0.9px 0 3.3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 36.3px;
+  width: 301.1px;
+  box-sizing: border-box;
+}
+.lin-h .frame-16 {
+  position: relative;
+  margin-top: 123px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.lin-h .footer {
+  background: #EEEEEE;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 58px 105.7px 79px 93px;
+  box-sizing: border-box;
+}
+.lin-h .group-76 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.lin-h .group-9061 {
+  background: url('../assets/images/group9061.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.lin-h .join-our-newsletter {
+  position: relative;
+  margin: 0 2px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 52px;
+  color: #525050;
+}
+.lin-h .get-the-freshest-pastricia-updates-and-offers-right-to-your-inbox-plus-enjoy-10-off-on-your-birthday-when-you-share-the-date-with-us {
+  position: relative;
+  margin-bottom: 42px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #525050;
+}
+.lin-h .enter-your-email-address {
+  margin-right: 19px;
+  width: 680px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #6C6C6C;
+}
+.lin-h .vector-7 {
+  width: 32.4px;
+  height: 31.6px;
+}
+.lin-h .material-symbolsarrow-forward-rounded {
+  margin: 0.2px 0 6.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 32.4px;
+  height: 31.6px;
+  box-sizing: border-box;
+}
+.lin-h .group-12 {
+  border-radius: 10px;
+  border: 1px solid #7C7C7C;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 19.2px 18px 19.3px;
+  width: 770px;
+  box-sizing: border-box;
+}
+.lin-h .join-us {
+  background: #D7D7D7;
+  position: absolute;
+  left: -1px;
+  bottom: 615px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 95px 0 143px 0;
+  width: 1440px;
+  height: 499px;
+  box-sizing: border-box;
+}
+.lin-h {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

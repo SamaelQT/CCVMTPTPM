@@ -1,0 +1,804 @@
+.tin-tc-khuyn-mi .rectangle-3 {
+  border: 1px solid #AAAAAA;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 105px;
+}
+.tin-tc-khuyn-mi .ellipse-11 {
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.15), inset 1px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 120px;
+  height: 120px;
+}
+.tin-tc-khuyn-mi .our-products {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-42 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.9px 13.2px 13.7px 14.2px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .news-promotion {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-43 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 1px 2.1px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .visit-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .visit {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 2.3px 11.6px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .navbar-left {
+  border-radius: 2px;
+  margin-bottom: 4.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-44 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 0 15px 0;
+  width: 163px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .rectangle-5 {
+  border: 1px solid #7C7C7C;
+  background: rgba(255, 255, 255, 0.5);
+  margin-right: 8px;
+  width: 246px;
+  height: 40px;
+}
+.tin-tc-khuyn-mi .ionsearch-circle {
+  width: 40px;
+  height: 40px;
+}
+.tin-tc-khuyn-mi .frame-2 {
+  margin: 10px 8px 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 294px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .carbonuser-avatar-filled-alt {
+  margin-right: 12px;
+  width: 37px;
+  height: 37px;
+}
+.tin-tc-khuyn-mi .vector-8 {
+  width: 33px;
+  height: 33px;
+}
+.tin-tc-khuyn-mi .elshopping-cart-sign {
+  margin: 1px 0 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 33px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-3 {
+  margin: 12px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 82px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .navbar-right {
+  display: flex;
+  flex-direction: row;
+  width: 560px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-75 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36px 52px 11px 82px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .logo-no-background-21 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 8.5px;
+  translate: -50% 0;
+  width: 145px;
+  height: 102.5px;
+}
+.tin-tc-khuyn-mi .header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 21px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .header-1 {
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .promotion-and-post {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 48px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .frame-47 {
+  background: #FFFFFF;
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 22px 0 13px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .new-post-1 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .new-post {
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  margin: 0 3px 70px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 33px 0 24px 0;
+  width: 462px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .image-11 {
+  background: url('../assets/images/image11.png') 50% / cover no-repeat;
+  width: 461px;
+  height: 249px;
+}
+.tin-tc-khuyn-mi .frame-43 {
+  background: #EEEEEE;
+  margin: 0 0 96px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 461px;
+  height: 249px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .rectangle-11 {
+  border-radius: 2px;
+  background: url('../assets/images/rectangle11.png');
+  position: absolute;
+  left: -10px;
+  bottom: 0px;
+  width: 471px;
+  height: 249px;
+}
+.tin-tc-khuyn-mi .frame-44 {
+  background: #EEEEEE;
+  position: relative;
+  margin-left: 4px;
+  width: 461px;
+  height: 249px;
+}
+.tin-tc-khuyn-mi .frame-41 {
+  background: #D6AFCD;
+  margin-bottom: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 42px 40px 77px 35px;
+  width: 540px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .image-10 {
+  background: url('../assets/images/image10.png') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.tin-tc-khuyn-mi .frame-49 {
+  background: #F2F1F1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .our-spacious-west-hollywood-bakery-has-seating-inside-and-out-and-is-ashort-walk-fr-om-the-grove {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .frame-50 {
+  background: #FFFFFF;
+  position: absolute;
+  top: 50%;
+  right: -36px;
+  translate: 0 -50%;
+  padding: 25px 25px 0 25px;
+  width: 480px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-48 {
+  background: #D6AFCD;
+  position: absolute;
+  left: -15px;
+  top: 28px;
+  padding: 23px 29px 22px 29px;
+  width: 800px;
+  height: 345px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .image-9 {
+  background: url('../assets/images/image9.png') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.tin-tc-khuyn-mi .frame-492 {
+  background: #F2F1F1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .our-spacious-west-hollywood-bakery-has-seating-inside-and-out-and-is-ashort-walk-fr-om-the-grove-1 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .frame-501 {
+  background: #FFFFFF;
+  position: absolute;
+  top: 50%;
+  right: -34px;
+  translate: 0 -50%;
+  padding: 24px 23px 0 23px;
+  width: 478px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-491 {
+  background: #D6AFCD;
+  position: absolute;
+  left: -15px;
+  bottom: 66px;
+  padding: 23px 29px 22px 29px;
+  width: 800px;
+  height: 345px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-46 {
+  background: #D6AFCD;
+  position: relative;
+  margin-top: 137px;
+  width: 819px;
+  height: 784px;
+}
+.tin-tc-khuyn-mi .frame-40 {
+  background: #D6AFCD;
+  margin: 0 41px 0 40px;
+  display: flex;
+  flex-direction: row;
+  padding: 51px 0 3px 0;
+  width: 1359px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .group-9061 {
+  background: url('../assets/images/group9061.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.tin-tc-khuyn-mi .join-our-newsletter {
+  position: relative;
+  margin: 0 2px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 52px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .get-the-freshest-pastricia-updates-and-offers-right-to-your-inbox-plus-enjoy-10-off-on-your-birthday-when-you-share-the-date-with-us {
+  position: relative;
+  margin-bottom: 42px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .enter-your-email-address {
+  margin-right: 19px;
+  width: 680px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #6C6C6C;
+}
+.tin-tc-khuyn-mi .vector-7 {
+  width: 32.4px;
+  height: 31.6px;
+}
+.tin-tc-khuyn-mi .material-symbolsarrow-forward-rounded {
+  margin: 0.2px 0 6.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 32.4px;
+  height: 31.6px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .group-12 {
+  border-radius: 10px;
+  border: 1px solid #7C7C7C;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 19.2px 18px 19.3px;
+  width: 770px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .join-us {
+  background: #D7D7D7;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 95px 0 143px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .bp-flight-1768-x-1 {
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('../assets/images/bpFlight1768X1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -33px;
+  top: 0px;
+  width: 1494px;
+  height: 615px;
+}
+.tin-tc-khuyn-mi .ellipse-1 {
+  position: relative;
+  width: 165.5px;
+  height: 165px;
+}
+.tin-tc-khuyn-mi .logo-no-background-2 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 11.7px;
+  translate: -50% 0;
+  width: 200px;
+  height: 141px;
+}
+.tin-tc-khuyn-mi .logo {
+  position: relative;
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 0 17.9px 0 16.6px;
+  width: 200px;
+  height: 165px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .careers {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-17 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .gift-cards {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-18 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .subscriptions {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .group-22 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-15 {
+  position: relative;
+  margin: 0 214px 135px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .policy {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .general-policies-and-regulations {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-171 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .transaction-and-payment-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-181 {
+  margin: 0 0.9px 23px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .return-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-191 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-20 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .shipping-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .group-221 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-17 {
+  position: relative;
+  margin: 128px 164.4px 80px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .have-aquestion {
+  margin: 0 16.1px 14px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .were-always-here-to-lend-ahelping-hand {
+  margin: 0 7px 27.5px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 20px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .vector {
+  width: 24.5px;
+  height: 22.2px;
+}
+.tin-tc-khuyn-mi .icround-home {
+  margin: 0 13.7px 6.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.5px;
+  height: 22.2px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .district-7-ho-chi-minh-city {
+  margin-top: 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-13 {
+  margin: 0 14px 23.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .vector-1 {
+  width: 17.5px;
+  height: 29.3px;
+}
+.tin-tc-khuyn-mi .material-symbolsphone-android {
+  margin-right: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 17.5px;
+  height: 29.3px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .container {
+  margin: 3.7px 0 0.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-14 {
+  margin: 0 3.5px 23.3px 3.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .vector-2 {
+  width: 25px;
+  height: 20px;
+}
+.tin-tc-khuyn-mi .material-symbolsmail {
+  margin: 4px 12.5px 2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 25px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .pastriciabakerygmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.tin-tc-khuyn-mi .group-15 {
+  margin-left: 0.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .group-16 {
+  margin: 0 0 25px 2.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .line-27 {
+  background: #525050;
+  margin: 0 1.3px 17px 0;
+  width: 304px;
+  height: 1px;
+}
+.tin-tc-khuyn-mi .vector-6 {
+  width: 48px;
+  height: 45px;
+}
+.tin-tc-khuyn-mi .vector-3 {
+  width: 48px;
+  height: 45px;
+}
+.tin-tc-khuyn-mi .vector-4 {
+  width: 48px;
+  height: 45px;
+}
+.tin-tc-khuyn-mi .vector-5 {
+  width: 48px;
+  height: 45px;
+}
+.tin-tc-khuyn-mi .media {
+  margin: 0 0.9px 0 3.3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 36.3px;
+  width: 301.1px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .frame-16 {
+  position: relative;
+  margin-top: 123px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .footer {
+  background: #EEEEEE;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  padding: 58px 105.7px 79px 93px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi .group-76 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1441px;
+  box-sizing: border-box;
+}
+.tin-tc-khuyn-mi {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,1323 @@
+.thanh-ton .rectangle-3 {
+  border: 1px solid #AAAAAA;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 105px;
+}
+.thanh-ton .ellipse-11 {
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.15), inset 1px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 120px;
+  height: 120px;
+}
+.thanh-ton .our-products {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.thanh-ton .group-42 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.9px 13.2px 13.7px 14.2px;
+  box-sizing: border-box;
+}
+.thanh-ton .news-promotion {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.thanh-ton .group-43 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 1px 2.1px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.thanh-ton .visit-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.thanh-ton .visit {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 2.3px 11.6px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.thanh-ton .navbar-left {
+  border-radius: 2px;
+  margin-bottom: 4.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.thanh-ton .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.thanh-ton .group-44 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 0 15px 0;
+  width: 163px;
+  box-sizing: border-box;
+}
+.thanh-ton .rectangle-5 {
+  border: 1px solid #7C7C7C;
+  background: rgba(255, 255, 255, 0.5);
+  margin-right: 8px;
+  width: 246px;
+  height: 40px;
+}
+.thanh-ton .ionsearch-circle {
+  width: 40px;
+  height: 40px;
+}
+.thanh-ton .frame-2 {
+  margin: 10px 8px 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 294px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .carbonuser-avatar-filled-alt {
+  margin-right: 12px;
+  width: 37px;
+  height: 37px;
+}
+.thanh-ton .vector-16 {
+  width: 33px;
+  height: 33px;
+}
+.thanh-ton .elshopping-cart-sign {
+  margin: 1px 0 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 33px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-3 {
+  margin: 12px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 82px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .navbar-right {
+  display: flex;
+  flex-direction: row;
+  width: 560px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-75 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36px 52px 11px 82px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .logo-no-background-21 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 8.5px;
+  translate: -50% 0;
+  width: 145px;
+  height: 102.5px;
+}
+.thanh-ton .header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 21px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .header-1 {
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.thanh-ton .personal-information {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 48px;
+  color: #525050;
+}
+.thanh-ton .frame-52 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 27px 0 8px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.thanh-ton .express-checkout {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .frame-62 {
+  background: #FFFFFF;
+  position: absolute;
+  left: -32px;
+  bottom: 308px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 25px 1px 24px 0;
+  width: 736px;
+  height: 93px;
+  box-sizing: border-box;
+}
+.thanh-ton .your-information {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .frame-561 {
+  background: #FFFFFF;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 26px 0 23px 1px;
+  width: 736px;
+  box-sizing: border-box;
+}
+.thanh-ton .name {
+  margin-right: 7.4px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .line-41 {
+  background: #525050;
+  margin: 30px 0 12px 0;
+  width: 489px;
+  height: 2px;
+}
+.thanh-ton .frame-56 {
+  background: #FFFFFF;
+  margin: 0 4px 26px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 26px 61px 23px 12px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .phone {
+  margin-right: 12.1px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .line-411 {
+  background: #525050;
+  margin: 32px 0 10px 0;
+  width: 477px;
+  height: 2px;
+}
+.thanh-ton .frame-57 {
+  background: #FFFFFF;
+  margin: 0 4px 26px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 61px 24px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .container {
+  margin-right: 9.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.container {
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 1.333;
+}
+.thanh-ton .line-412 {
+  background: #525050;
+  margin: 33px 0 9px 0;
+  width: 493px;
+  height: 2px;
+}
+.thanh-ton .frame-581 {
+  background: #FFFFFF;
+  margin: 0 0 26px 4px;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 61px 24px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .address {
+  margin-right: 19.5px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .line-413 {
+  background: #525050;
+  margin: 32px 0 10px 0;
+  width: 454px;
+  height: 2px;
+}
+.thanh-ton .frame-582 {
+  background: #FFFFFF;
+  margin: 0 4px 26px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 61px 24px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .nhn-giao {
+  position: absolute;
+  left: -2px;
+  top: 25px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .line-414 {
+  background: #525050;
+  margin-bottom: 81px;
+  width: 327px;
+  height: 2px;
+}
+.thanh-ton .line-42 {
+  background: #525050;
+  margin-right: 0px;
+  width: 615px;
+  height: 2px;
+}
+.thanh-ton .frame-59 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 20px 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 57px 61px 11px 0;
+  width: 676px;
+  box-sizing: border-box;
+}
+.thanh-ton .note {
+  margin-right: 15.8px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 32px;
+  color: #525050;
+}
+.thanh-ton .line-415 {
+  background: #525050;
+  margin: 30px 0 8px 0;
+  width: 517px;
+  height: 2px;
+}
+.thanh-ton .frame-60 {
+  background: #FFFFFF;
+  margin-right: 4px;
+  display: flex;
+  flex-direction: row;
+  padding: 27px 61px 26px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-55 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 69px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 33px 29px 0 27px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-6 {
+  width: 100px;
+  height: 77.8px;
+}
+.thanh-ton .cibcc-paypal {
+  margin: 0.1px 50px 7.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100px;
+  height: 77.8px;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-5 {
+  width: 100px;
+  height: 37.5px;
+}
+.thanh-ton .cibgoogle-pay {
+  margin: 26.3px 50px 21.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100px;
+  height: 37.5px;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-7 {
+  width: 100px;
+  height: 77.8px;
+}
+.thanh-ton .cibcc-amazon-pay {
+  margin: 0.1px 50px 7.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100px;
+  height: 77.8px;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-4 {
+  width: 100px;
+  height: 85px;
+}
+.thanh-ton .fontistoapple-pay {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100px;
+  height: 85px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-632 {
+  background: #FFFFFF;
+  margin: 0 67px 0 8px;
+  display: flex;
+  flex-direction: row;
+  padding: 27px 41px 27px 0;
+  width: 662px;
+  box-sizing: border-box;
+}
+.thanh-ton .line-39 {
+  background: #000000;
+  position: absolute;
+  top: 0px;
+  right: 25px;
+  width: 8px;
+  height: 1057px;
+}
+.thanh-ton .container-8 {
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.thanh-ton .your-order {
+  overflow-wrap: break-word;
+  font-family: 'Cabin';
+  font-weight: 700;
+  font-size: 35px;
+  color: #525050;
+}
+.your-order-sub4 {
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 1.333;
+  color: #525050;
+}
+.your-order-sub3 {
+  font-family: 'Cabin';
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 1.333;
+  color: #525050;
+}
+.your-order {
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 1.333;
+  color: #525050;
+}
+.thanh-ton .frame-571 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 26px 0 23px 1px;
+  width: 695px;
+  box-sizing: border-box;
+}
+.thanh-ton .products {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 35px;
+  color: #525050;
+}
+.thanh-ton .frame-621 {
+  border-radius: 7px;
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 24px 0 21px 2px;
+  width: 299px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .btn-product-hover {
+  margin: 0 22px 39px 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  width: 299px;
+  box-sizing: border-box;
+}
+.thanh-ton .image-8 {
+  background: url('../assets/images/image7.png') 50% / cover no-repeat;
+  width: 291px;
+  height: 240px;
+}
+.thanh-ton .frame-63 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  margin-right: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 291px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.thanh-ton .holiday-candy-store-mini-cupcake-assortment-nationwide {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .frame-30 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  bottom: -60px;
+  width: 205px;
+  height: 164px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-65 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 16px 21px;
+  width: 234px;
+  height: 110px;
+}
+.thanh-ton .container-1 {
+  margin: 0 21px 1px 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .vector {
+  margin: 0 29.8px 1px 0;
+  width: 30px;
+  height: 30px;
+}
+.thanh-ton .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 25px;
+  color: #525050;
+}
+.thanh-ton .container-4 {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-1 {
+  margin-bottom: 1px;
+  width: 30px;
+  height: 30px;
+}
+.thanh-ton .frame-66 {
+  background: #FFFFFF;
+  margin-right: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36.4px 0 20.6px 22px;
+  width: 234px;
+  box-sizing: border-box;
+}
+.thanh-ton .container {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-64 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 318.5px;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 19px 24px 26px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .line-43 {
+  background: #525050;
+  margin: 0 1px 21.5px 26px;
+  width: 588px;
+  height: 2px;
+}
+.thanh-ton .gift-card-or-discount-code {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 25px;
+  color: #525050;
+}
+.thanh-ton .group-79 {
+  border-radius: 5px;
+  border: 1px solid #525050;
+  background: rgba(82, 80, 80, 0.15);
+  position: relative;
+  margin: 1px 43px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 35.2px 17px 32.2px;
+  box-sizing: border-box;
+}
+.thanh-ton .apply {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+.thanh-ton .btn-hover-hover {
+  border-radius: 5px;
+  border: 1px solid #525050;
+  background: #D6AFCD;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 0;
+  width: 187px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .container-1 {
+  margin: 0 2px 32px 23px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .line-44 {
+  background: #525050;
+  margin: 0 1px 34px 26px;
+  width: 588px;
+  height: 2px;
+}
+.thanh-ton .total {
+  margin: 5px 20px 0 0;
+  display: inline-block;
+  width: 436px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 32px;
+  color: #525050;
+}
+.thanh-ton .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.thanh-ton .container-7 {
+  margin: 0 0.9px 0 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 588.1px;
+  box-sizing: border-box;
+}
+.thanh-ton .image-81 {
+  background: url('../assets/images/image7.png') 50% / cover no-repeat;
+  width: 291px;
+  height: 240px;
+}
+.thanh-ton .frame-631 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  margin-right: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 240px;
+  flex-grow: 1;
+  flex-basis: 291px;
+  box-sizing: border-box;
+}
+.thanh-ton .holiday-candy-store-mini-cupcake-assortment-nationwide-1 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .frame-301 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  bottom: -60px;
+  width: 205px;
+  height: 164px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-652 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 16px 21px;
+  width: 234px;
+  height: 110px;
+}
+.thanh-ton .container-3 {
+  margin: 0 21px 1px 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .vector-2 {
+  margin: 0 29.8px 1px 0;
+  width: 30px;
+  height: 30px;
+}
+.thanh-ton .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 25px;
+  color: #525050;
+}
+.thanh-ton .container-3 {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-3 {
+  margin-bottom: 1px;
+  width: 30px;
+  height: 30px;
+}
+.thanh-ton .frame-661 {
+  background: #FFFFFF;
+  margin-right: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36.4px 0 20.6px 22px;
+  width: 234px;
+  box-sizing: border-box;
+}
+.thanh-ton .container-2 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 255px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-651 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 12px;
+  right: 51px;
+  bottom: 268px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 19px 24px 26px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-61 {
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 17px;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 50px 30px 13px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .container-6 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.thanh-ton .container-5 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .complete-your-payment {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.thanh-ton .group-81 {
+  border-radius: 8px;
+  background: #581B28;
+  position: relative;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px 23.4px 20px 22.4px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-58 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 33px 0 57px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .group-9061 {
+  background: url('../assets/images/group9061.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.thanh-ton .join-our-newsletter {
+  position: relative;
+  margin: 0 2px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 52px;
+  color: #525050;
+}
+.thanh-ton .get-the-freshest-pastricia-updates-and-offers-right-to-your-inbox-plus-enjoy-10-off-on-your-birthday-when-you-share-the-date-with-us {
+  position: relative;
+  margin-bottom: 42px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #525050;
+}
+.thanh-ton .enter-your-email-address {
+  margin-right: 19px;
+  width: 680px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #6C6C6C;
+}
+.thanh-ton .vector-15 {
+  width: 32.4px;
+  height: 31.6px;
+}
+.thanh-ton .material-symbolsarrow-forward-rounded {
+  margin: 0.2px 0 6.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 32.4px;
+  height: 31.6px;
+  box-sizing: border-box;
+}
+.thanh-ton .group-12 {
+  border-radius: 10px;
+  border: 1px solid #7C7C7C;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 19.2px 18px 19.3px;
+  width: 770px;
+  box-sizing: border-box;
+}
+.thanh-ton .join-us {
+  background: #D7D7D7;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 95px 0 143px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.thanh-ton .bp-flight-1768-x-1 {
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('../assets/images/bpFlight1768X1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -33px;
+  top: 0px;
+  width: 1494px;
+  height: 615px;
+}
+.thanh-ton .ellipse-1 {
+  position: relative;
+  width: 165.5px;
+  height: 165px;
+}
+.thanh-ton .logo-no-background-2 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 11.7px;
+  translate: -50% 0;
+  width: 200px;
+  height: 141px;
+}
+.thanh-ton .logo {
+  position: relative;
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 0 17.9px 0 16.6px;
+  width: 200px;
+  height: 165px;
+  box-sizing: border-box;
+}
+.thanh-ton .careers {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.thanh-ton .group-17 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.thanh-ton .gift-cards {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.thanh-ton .group-18 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.thanh-ton .subscriptions {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.thanh-ton .group-19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.thanh-ton .group-22 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-15 {
+  position: relative;
+  margin: 0 214px 135px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.thanh-ton .policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.thanh-ton .general-policies-and-regulations {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.thanh-ton .group-171 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.thanh-ton .transaction-and-payment-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.thanh-ton .group-181 {
+  margin: 0 0.9px 23px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.thanh-ton .return-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.thanh-ton .group-191 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.thanh-ton .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.thanh-ton .group-20 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.thanh-ton .shipping-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.thanh-ton .group-21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.thanh-ton .group-221 {
+  position: absolute;
+  right: -153.5px;
+  bottom: -225px;
+  display: flex;
+  flex-direction: column;
+  width: 298.6px;
+  height: 208px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-17 {
+  position: relative;
+  margin: 128px 317.9px 305px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.thanh-ton .have-aquestion {
+  margin: 0 16.1px 14px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.thanh-ton .were-always-here-to-lend-ahelping-hand {
+  margin: 0 7px 27.5px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .vector-8 {
+  width: 24.5px;
+  height: 22.2px;
+}
+.thanh-ton .icround-home {
+  margin: 0 13.7px 6.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.5px;
+  height: 22.2px;
+  box-sizing: border-box;
+}
+.thanh-ton .district-7-ho-chi-minh-city {
+  margin-top: 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .group-13 {
+  margin: 0 14px 23.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-9 {
+  width: 17.5px;
+  height: 29.3px;
+}
+.thanh-ton .material-symbolsphone-android {
+  margin-right: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 17.5px;
+  height: 29.3px;
+  box-sizing: border-box;
+}
+.thanh-ton .container-6 {
+  margin: 3.7px 0 0.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.thanh-ton .group-14 {
+  margin: 0 3.5px 23.3px 3.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .vector-10 {
+  width: 25px;
+  height: 20px;
+}
+.thanh-ton .material-symbolsmail {
+  margin: 4px 12.5px 2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 25px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.thanh-ton .pastriciabakerygmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.thanh-ton .group-15 {
+  margin-left: 0.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .group-16 {
+  margin: 0 0 25px 2.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .line-27 {
+  background: #525050;
+  margin: 0 1.3px 17px 0;
+  width: 304px;
+  height: 1px;
+}
+.thanh-ton .vector-14 {
+  width: 48px;
+  height: 45px;
+}
+.thanh-ton .vector-11 {
+  width: 48px;
+  height: 45px;
+}
+.thanh-ton .vector-12 {
+  width: 48px;
+  height: 45px;
+}
+.thanh-ton .vector-13 {
+  width: 48px;
+  height: 45px;
+}
+.thanh-ton .media {
+  margin: 0 0.9px 0 3.3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 36.3px;
+  width: 301.1px;
+  box-sizing: border-box;
+}
+.thanh-ton .frame-16 {
+  position: relative;
+  margin-top: 123px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.thanh-ton .footer {
+  background: #EEEEEE;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  padding: 58px 105.7px 79px 93px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thanh-ton .group-76 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1441px;
+  box-sizing: border-box;
+}
+.thanh-ton {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
