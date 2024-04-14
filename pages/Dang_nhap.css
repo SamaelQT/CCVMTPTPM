@@ -1,0 +1,768 @@
+.ng-nhp .rectangle-3 {
+  border: 1px solid #AAAAAA;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 105px;
+}
+.ng-nhp .ellipse-11 {
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.15), inset 1px 1px 1px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 120px;
+  height: 120px;
+}
+.ng-nhp .our-products {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.ng-nhp .group-42 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14.9px 13.2px 13.7px 14.2px;
+  box-sizing: border-box;
+}
+.ng-nhp .news-promotion {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.ng-nhp .group-43 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.5px 1px 2.1px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.ng-nhp .visit-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.ng-nhp .visit {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 17px 2.3px 11.6px 0;
+  width: 163.3px;
+  box-sizing: border-box;
+}
+.ng-nhp .navbar-left {
+  border-radius: 2px;
+  margin-bottom: 4.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.ng-nhp .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 17px;
+  color: #525050;
+}
+.ng-nhp .group-44 {
+  border-radius: 2px;
+  background: rgba(214, 175, 205, 0.6);
+  position: relative;
+  margin-right: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 18px 0 15px 0;
+  width: 163px;
+  box-sizing: border-box;
+}
+.ng-nhp .rectangle-5 {
+  border: 1px solid #7C7C7C;
+  background: rgba(255, 255, 255, 0.5);
+  margin-right: 8px;
+  width: 246px;
+  height: 40px;
+}
+.ng-nhp .ionsearch-circle {
+  width: 40px;
+  height: 40px;
+}
+.ng-nhp .frame-2 {
+  margin: 10px 8px 4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 294px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .carbonuser-avatar-filled-alt {
+  margin-right: 12px;
+  width: 37px;
+  height: 37px;
+}
+.ng-nhp .vector-9 {
+  width: 33px;
+  height: 33px;
+}
+.ng-nhp .elshopping-cart-sign {
+  margin: 1px 0 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 33px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.ng-nhp .frame-3 {
+  margin: 12px 0 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 82px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .navbar-right {
+  display: flex;
+  flex-direction: row;
+  width: 560px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .frame-75 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36px 52px 11px 82px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .logo-no-background-21 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 8.5px;
+  translate: -50% 0;
+  width: 145px;
+  height: 102.5px;
+}
+.ng-nhp .header-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 21px;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .header {
+  position: relative;
+  margin-bottom: 76px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.ng-nhp .login {
+  margin: 0 6px 20px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 52px;
+  color: #525050;
+}
+.ng-nhp .email-1 {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  color: #525050;
+}
+.ng-nhp .email {
+  border-radius: 5px;
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  margin: 0 2px 20px 0;
+  padding: 14px 11.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .password-1 {
+  margin-right: 15px;
+  width: 454.9px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 24px;
+  color: #525050;
+}
+.ng-nhp .vector-8 {
+  width: 27.5px;
+  height: 15px;
+}
+.ng-nhp .material-symbolsvpn-key-rounded {
+  margin: 6.5px 0 8.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 27.5px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.ng-nhp .password {
+  border-radius: 5px;
+  border: 1px solid #525050;
+  background: #FFFFFF;
+  margin: 0 2px 26px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 15.3px 13px 15.3px;
+  width: 530px;
+  box-sizing: border-box;
+}
+.ng-nhp .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 21px;
+  color: #525050;
+}
+.ng-nhp .signin-hover {
+  border-radius: 5px;
+  border: 3px solid #525050;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14px 0 10px 0;
+  width: 180px;
+  box-sizing: border-box;
+}
+.ng-nhp .forgot-your-password {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 19px;
+  color: #6C6C6C;
+}
+.ng-nhp .line-22 {
+  background: #6C6C6C;
+  margin-left: 1.3px;
+  width: 190px;
+  height: 1px;
+}
+.ng-nhp .group-9 {
+  margin: 0 1px 3px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .create-account {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 19px;
+  color: #6C6C6C;
+}
+.ng-nhp .line-23 {
+  background: #6C6C6C;
+  position: absolute;
+  right: 0px;
+  bottom: 1px;
+  width: 131px;
+  height: 1px;
+}
+.ng-nhp .group-10 {
+  position: relative;
+  margin: 0 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ng-nhp .login-form {
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25), inset 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #FFFFFF;
+  margin-right: 89px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 0 58px 0 60px;
+  box-sizing: border-box;
+}
+.ng-nhp .logo-no-background-1 {
+  background: url('../assets/images/logoNoBackground1.png') 50% / cover no-repeat;
+  margin: 66px 0 91.4px 0;
+  width: 550px;
+  height: 342.6px;
+}
+.ng-nhp .container {
+  margin: 0 81px 43px 70px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .group-9061 {
+  background: url('../assets/images/group9061.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.ng-nhp .join-our-newsletter {
+  position: relative;
+  margin: 0 2px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 52px;
+  color: #525050;
+}
+.ng-nhp .get-the-freshest-pastricia-updates-and-offers-right-to-your-inbox-plus-enjoy-10-off-on-your-birthday-when-you-share-the-date-with-us {
+  position: relative;
+  margin-bottom: 42px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #525050;
+}
+.ng-nhp .enter-your-email-address {
+  margin-right: 19px;
+  width: 680px;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 30px;
+  color: #6C6C6C;
+}
+.ng-nhp .vector-7 {
+  width: 32.4px;
+  height: 31.6px;
+}
+.ng-nhp .material-symbolsarrow-forward-rounded {
+  margin: 0.2px 0 6.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 32.4px;
+  height: 31.6px;
+  box-sizing: border-box;
+}
+.ng-nhp .group-12 {
+  border-radius: 10px;
+  border: 1px solid #7C7C7C;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 19.2px 18px 19.3px;
+  width: 770px;
+  box-sizing: border-box;
+}
+.ng-nhp .join-us {
+  background: #D7D7D7;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 95px 0 143px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.ng-nhp .bp-flight-1768-x-1 {
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('../assets/images/bpFlight1768X1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -33px;
+  top: 0px;
+  width: 1494px;
+  height: 615px;
+}
+.ng-nhp .ellipse-1 {
+  position: relative;
+  width: 165.5px;
+  height: 165px;
+}
+.ng-nhp .logo-no-background-2 {
+  background: url('../assets/images/logoNoBackground2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 11.7px;
+  translate: -50% 0;
+  width: 200px;
+  height: 141px;
+}
+.ng-nhp .logo {
+  position: relative;
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 0 17.9px 0 16.6px;
+  width: 200px;
+  height: 165px;
+  box-sizing: border-box;
+}
+.ng-nhp .careers {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.ng-nhp .group-17 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.ng-nhp .gift-cards {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.ng-nhp .group-18 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.ng-nhp .subscriptions {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.ng-nhp .group-19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ng-nhp .group-22 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .frame-15 {
+  position: relative;
+  margin: 0 214px 135px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.ng-nhp .policy {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.ng-nhp .general-policies-and-regulations {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.ng-nhp .group-171 {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ng-nhp .transaction-and-payment-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.ng-nhp .group-181 {
+  margin: 0 0.9px 23px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ng-nhp .return-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.ng-nhp .group-191 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.ng-nhp .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.ng-nhp .group-20 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.ng-nhp .shipping-policy {
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 19px;
+  color: #525050;
+}
+.ng-nhp .group-21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.ng-nhp .group-221 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .frame-17 {
+  position: relative;
+  margin: 128px 164.4px 80px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.ng-nhp .have-aquestion {
+  margin: 0 16.1px 14px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 700;
+  font-size: 36px;
+  color: #525050;
+}
+.ng-nhp .were-always-here-to-lend-ahelping-hand {
+  margin: 0 7px 27.5px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Libre Caslon Text';
+  font-weight: 500;
+  font-size: 20px;
+  color: #525050;
+}
+.ng-nhp .vector {
+  width: 24.5px;
+  height: 22.2px;
+}
+.ng-nhp .icround-home {
+  margin: 0 13.7px 6.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 24.5px;
+  height: 22.2px;
+  box-sizing: border-box;
+}
+.ng-nhp .district-7-ho-chi-minh-city {
+  margin-top: 3.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.ng-nhp .group-13 {
+  margin: 0 14px 23.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .vector-1 {
+  width: 17.5px;
+  height: 29.3px;
+}
+.ng-nhp .material-symbolsphone-android {
+  margin-right: 14.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 17.5px;
+  height: 29.3px;
+  box-sizing: border-box;
+}
+.ng-nhp .container {
+  margin: 3.7px 0 0.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 20px;
+  color: #525050;
+}
+.ng-nhp .group-14 {
+  margin: 0 3.5px 23.3px 3.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .vector-2 {
+  width: 25px;
+  height: 20px;
+}
+.ng-nhp .material-symbolsmail {
+  margin: 4px 12.5px 2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 25px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.ng-nhp .pastriciabakerygmail-com {
+  overflow-wrap: break-word;
+  font-family: 'Libre Bodoni';
+  font-weight: 400;
+  font-size: 21px;
+  color: #525050;
+}
+.ng-nhp .group-15 {
+  margin-left: 0.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .group-16 {
+  margin: 0 0 25px 2.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp .line-27 {
+  background: #525050;
+  margin: 0 1.3px 17px 0;
+  width: 304px;
+  height: 1px;
+}
+.ng-nhp .vector-6 {
+  width: 48px;
+  height: 45px;
+}
+.ng-nhp .vector-3 {
+  width: 48px;
+  height: 45px;
+}
+.ng-nhp .vector-4 {
+  width: 48px;
+  height: 45px;
+}
+.ng-nhp .vector-5 {
+  width: 48px;
+  height: 45px;
+}
+.ng-nhp .media {
+  margin: 0 0.9px 0 3.3px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 36.3px;
+  width: 301.1px;
+  box-sizing: border-box;
+}
+.ng-nhp .frame-16 {
+  position: relative;
+  margin-top: 123px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.ng-nhp .footer {
+  background: #EEEEEE;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 58px 105.7px 91px 93px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ng-nhp {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
